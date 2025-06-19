@@ -1,0 +1,1 @@
+Desarrollá una función que convierta un número decimal en su representación binaria (como string), usando recursión.

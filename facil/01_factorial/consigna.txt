@@ -1,0 +1,1 @@
+Implementá una función recursiva que reciba un número entero `n` y devuelva su factorial.

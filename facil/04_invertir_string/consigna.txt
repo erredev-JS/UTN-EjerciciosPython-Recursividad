@@ -1,0 +1,1 @@
+Escribí una función recursiva que reciba una cadena de texto y devuelva la misma cadena invertida.

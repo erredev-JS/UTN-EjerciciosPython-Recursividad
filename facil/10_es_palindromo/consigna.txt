@@ -1,0 +1,1 @@
+Creá una función que determine si una palabra es un palíndromo.

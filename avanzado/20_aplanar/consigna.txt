@@ -1,0 +1,1 @@
+Desarrollá una función recursiva que reciba una lista que puede contener otras listas y devuelva una nueva lista con todos los elementos en un solo nivel.

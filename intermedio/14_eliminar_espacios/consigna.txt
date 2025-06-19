@@ -1,0 +1,1 @@
+Escribí una función recursiva que elimine todos los espacios de una cadena de texto.
