@@ -76,4 +76,3 @@ Este repositorio contiene una colección de **20 ejercicios resueltos con recurs
 1. Cloná el proyecto:
    ```bash
    git clone https://github.com/tu-usuario/recursividad-python.git
-   cd recursividad-python
